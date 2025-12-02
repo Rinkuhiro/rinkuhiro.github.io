@@ -8,4 +8,4 @@ Welcome to our blog showing the progression of our project in the class "HCI For
 
 To begin everything, we installed unity, the software that we're going to use for the development of the project.
 
-![Installation_0](.images/Installation_0.jpg)
+![Installation_0](images/Installation_0.jpg)
