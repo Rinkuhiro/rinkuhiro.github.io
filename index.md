@@ -12,21 +12,21 @@ We opened Unity Hub, and went to Installs, then Install Editor, then download ar
 
 ![Installation_0](images/Installation_0.jpg)
 
-![Installation_0](images/Installation_1.jpg)
+![Installation_1](images/Installation_1.jpg)
 
-![Installation_0](images/Installation_2.jpg)
+![Installation_2](images/Installation_2.jpg)
 
 We chose to use the 6000.2.12f1 version, as one of us already had this version installed and it was compatible with the most recent tools for VR development.
 
-![Installation_0](images/Installation_3.jpg)
+![Installation_3](images/Installation_3.jpg)
 
 We made sure to include Android Build support, to be able to run the project on most VR headsets.
 
-![Installation_0](images/Installation_4.jpg)
+![Installation_4](images/Installation_4.jpg)
 
-![Installation_0](images/Installation_5.jpg)
+![Installation_5](images/Installation_5.jpg)
 
-![Installation_0](images/Installation_6.jpg)
+![Installation_6](images/Installation_6.jpg)
 
 And now the Unity Editor is installed ! 
 
