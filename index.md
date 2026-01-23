@@ -135,3 +135,19 @@ Finally let's build our game.
 ![Create_Build_1](images/Roll_A_Ball_Tutorial/Create_Build_1.jpg)
 ![Create_Build_2](images/Roll_A_Ball_Tutorial/Create_Build_2.jpg)
 
+
+# Presentation - Locomotion Ideas
+![LocomotionIdea0](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 0.jpg)
+![LocomotionIdea1](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 1.jpg)
+![LocomotionIdea2](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 2.jpg)
+![LocomotionIdea3](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 3.jpg)
+![LocomotionIdea4](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 4.jpg)
+![LocomotionIdea5](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 5.jpg)
+![LocomotionIdea6](images/Locomotion\ Ideas/Locomotion\ Ideas\ -\ 6.jpg)
+
+# Presentation - Project Locomotion Pitch
+![LocomotionPitch0](images/Locomotion\ Pitch/Locomotion\ Pitch\ -\ 0.jpg)
+![LocomotionPitch1](images/Locomotion\ Pitch/Locomotion\ Pitch\ -\ 1.jpg)
+![LocomotionPitch2](images/Locomotion\ Pitch/Locomotion\ Pitch\ -\ 2.jpg)
+![LocomotionPitch3](images/Locomotion\ Pitch/Locomotion\ Pitch\ -\ 3.jpg)
+![LocomotionPitch4](images/Locomotion\ Pitch/Locomotion\ Pitch\ -\ 4.jpg)
