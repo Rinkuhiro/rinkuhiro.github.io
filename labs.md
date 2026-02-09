@@ -154,7 +154,9 @@ Let's add the win conditions.
 
 Finally let's build our game.
 
-[Back](./)
 ![Create_Build_0](images/Roll_A_Ball_Tutorial/Create_Build_0.jpg)
 ![Create_Build_1](images/Roll_A_Ball_Tutorial/Create_Build_1.jpg)
 ![Create_Build_2](images/Roll_A_Ball_Tutorial/Create_Build_2.jpg)
+
+
+[Back](./)
