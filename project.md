@@ -24,4 +24,9 @@ We pitched 3 different ways to do locomotion in VR, that were all interesting to
 ![LocomotionPitch3](images/LocomotionPitch/LocomotionPitch-3.jpg)
 ![LocomotionPitch4](images/LocomotionPitch/LocomotionPitch-4.jpg)
 
-We wanted to implement a Ski Locomotion as we thought it would make for an interesting challenge and a fun way to move around in VR.
+We wanted to implement a Ski Locomotion as we thought it would make for an interesting challenge and a fun way to move around in VR.*
+
+
+[Link to the video demo](https://www.youtube.com/watch?v=1xrpjvPshhY)
+
+[Back](./)
