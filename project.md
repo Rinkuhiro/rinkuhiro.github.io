@@ -29,4 +29,17 @@ We wanted to implement a Ski Locomotion as we thought it would make for an inter
 
 [Link to the video demo](https://www.youtube.com/watch?v=1xrpjvPshhY)
 
+# Evaluation - User Testing
+
+In total, we had the feedback from the two of us and two external users. After trying out the controls, we were all tasked with completing one lap of the circuit as fast as possible while collecting as many coins as possible. At the end, we had to rate several measures out of ten (1 being the lowest, and 10 the highest : the feeling of sickness, the difficulty of the task, the presence and the enjoyment. The results are as follow.
+
+| Time       | % of coins collected | Simulator Sickness | Task Workload | Presence | Enjoyment |
+|:-------------|:------------------|:------|:--|:--|:--|
+| 2m 11s       | 49% | 2/10 | 4/10 | 4/10 | 6/10 |
+| 2m 45s       |  52%  | 1/10 | 4/10 | 6/10 | 5/10 |
+| 3m 01s       |  53%  | 4/10 | 5/10 | 6/10 | 8/10 |
+| 2m 42s       | 50% | 3/10 | 4/10 | 5/10 | 6/10 |
+
+From this user study, we can conclude that even though this method of locomotion is not the most precise (as the accuracy to pick up the coins barely goes above 50%), it is mostly enjoyable to use, while causing little simulator sickness with a medium sense of presence.
+
 [Back](./)
