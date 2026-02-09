@@ -158,5 +158,10 @@ Finally let's build our game.
 ![Create_Build_1](images/Roll_A_Ball_Tutorial/Create_Build_1.jpg)
 ![Create_Build_2](images/Roll_A_Ball_Tutorial/Create_Build_2.jpg)
 
+# Step 2 : VR
+![New_VR_Scene](images/Roll_A_Ball_VR/New_VR_Scene.jpeg)
+*We put our board on a little wood table*
+![VR_Building_block](images/Roll_A_Ball_VR/VR_Building_block.jpeg)
+*We used the Meta XR building blocks to integrate VR in our project*
 
 [Back](./)
